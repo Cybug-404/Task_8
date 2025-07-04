@@ -1,0 +1,23 @@
+1. What is a VPN?
+   A VPN (Virtual Private Network) creates a secure, encrypted connection between your device and the internet, masking your IP and protecting your data.
+
+2. How does a VPN protect privacy?
+   It hides your real IP address, encrypts internet traffic, and prevents ISPs or hackers from tracking your online activity.
+
+3. Difference between VPN and proxy?
+   A proxy only hides your IP address without encryption, while a VPN encrypts all traffic and provides better security.
+
+4. What is encryption in VPN?
+   Encryption converts your data into unreadable code during transmission, protecting it from unauthorized access.
+
+5. Can VPN guarantee complete anonymity?
+   No, VPNs improve privacy but don’t offer full anonymity—providers may log activity, and websites can still track you via cookies or fingerprinting.
+
+6. What protocols do VPNs use?
+   Common protocols: OpenVPN, WireGuard, IKEv2/IPSec, L2TP/IPSec, and PPTP.
+
+7. What are some VPN limitations?
+   Reduced speed, potential logging by providers, blocked by some services, and not fully anonymous.
+
+8. How does a VPN affect network speed?
+   It may slow down the connection due to encryption and rerouting through remote servers.
