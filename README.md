@@ -6,7 +6,7 @@
 ## 🛠 Tools Used
 - Chrome (Browser)
 - Hotspot Shield VPN
-- Linux (OS)
+- Windows (OS)
 
 ## 🧪 Steps Performed
 1. Install Hotspot shield from **www.hotspotshield.com**
