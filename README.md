@@ -13,7 +13,8 @@
 2. Note down current ip address 
 3. Change the vpn location and browse
 4. Verify the ip address (whatismyipaddress.com)
-5. Encrypted data 
+5. Encrypted data traffic
+6. Analyzed Internet speed before and after VPN connection 
 
 
 ## 📊 Output
@@ -23,26 +24,20 @@
 
 
 ## 🧠 Learnings
-  
-  ### File System Access and Downloads
-   Though extensions can't directly access local files, some use social engineering to: 
-  - Trigger file downloads containing malware. 
-  - Upload files via drag-and-drop from users (resume upload on job sites).
+  A **VPN (Virtual Private Network)** is a service that creates a secure, encrypted connection between your device and the internet. It hides your IP address, protects your data, and lets you access content from restricted by location. VPN like Express VPNs provide high level encryption and secure but some public vpns are not that much secure and easy to crack the encryption. Some VPN providers are NordVPN, ExpressVPN, surfshark, Hotshield, Proton, Turbovpn, CyberGhost etc.
 
-   ### Keystroke Logging
-   Extensions with permissions to access all pages can:
-  - Capture keystrokes entered in input fields (usernames, passwords).
-  - Log typed messages and confidential data in enterprise systems.
+ ### VPN Advantage:
+  - Hides your IP address and encrypts traffic.
+  - Prevents data theft on open networks.
+  - Access content blocked in your region.
+  - Helps maintain online anonymity.
+  - Encrypts sensitive data during transmission.
 
-   ### Phishing
-  - Redirect you to lookalike phishing sites.
-  - You search Google but get redirected to a fake banking site.
+### VPN Disadvantage:
+  - Due to encryption and rerouting.
+  - VPN providers may keep logs.
+  - Some websites detect and block VPNs.
+  - Reliable VPNs are usually paid.
+  - Security depends on the VPN provider’s policies.
 
-   ### Ad Injection and Click Fraud
-  - Inject ads into web pages to earn revenue fraudulently.
-  - Auto-click on ads (click fraud) using your browser in the background.
-
-   ### Monitoring and Tracking
-  - Track all browsing behavior (sites visited, time spent, clicks).
-  - Build detailed profiles of users and sell the data. 
 
